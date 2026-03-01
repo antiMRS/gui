@@ -12,6 +12,5 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img width="12" />
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=python,rust,lua,c,cpp,js,html,css)](https://skillicons.dev)
