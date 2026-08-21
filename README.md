@@ -3,6 +3,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
+  <img src="https://dlang.org/favicon.ico" height="50" alt="d logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
